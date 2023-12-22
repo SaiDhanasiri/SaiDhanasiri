@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-HELLO MY NAME IS SAI AND I LIKE TO SLEEP! 
+HELLO MY NAME IS SAI AND I LIKE TO CODE!
